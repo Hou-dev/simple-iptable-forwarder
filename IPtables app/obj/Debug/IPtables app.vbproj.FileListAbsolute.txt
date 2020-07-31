@@ -1,0 +1,12 @@
+C:\Users\Javed\source\repos\IPtables app\IPtables app\bin\Debug\IPtables app.exe.config
+C:\Users\Javed\source\repos\IPtables app\IPtables app\bin\Debug\IPtables app.exe
+C:\Users\Javed\source\repos\IPtables app\IPtables app\bin\Debug\IPtables app.pdb
+C:\Users\Javed\source\repos\IPtables app\IPtables app\bin\Debug\IPtables app.xml
+C:\Users\Javed\source\repos\IPtables app\IPtables app\obj\Debug\IPtables app.vbprojAssemblyReference.cache
+C:\Users\Javed\source\repos\IPtables app\IPtables app\obj\Debug\IPtables_app.IPTables.resources
+C:\Users\Javed\source\repos\IPtables app\IPtables app\obj\Debug\IPtables_app.Resources.resources
+C:\Users\Javed\source\repos\IPtables app\IPtables app\obj\Debug\IPtables app.vbproj.GenerateResource.cache
+C:\Users\Javed\source\repos\IPtables app\IPtables app\obj\Debug\IPtables app.vbproj.CoreCompileInputs.cache
+C:\Users\Javed\source\repos\IPtables app\IPtables app\obj\Debug\IPtables app.exe
+C:\Users\Javed\source\repos\IPtables app\IPtables app\obj\Debug\IPtables app.xml
+C:\Users\Javed\source\repos\IPtables app\IPtables app\obj\Debug\IPtables app.pdb
